@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zabiraiu/reactproject.git/static/css/main.764936a2.css",
+    "main.js": "/zabiraiu/reactproject.git/static/js/main.d70a5d20.js",
+    "static/css/672.2b32ed06.chunk.css": "/zabiraiu/reactproject.git/static/css/672.2b32ed06.chunk.css",
+    "static/js/672.78ff2034.chunk.js": "/zabiraiu/reactproject.git/static/js/672.78ff2034.chunk.js",
+    "static/js/787.393ab288.chunk.js": "/zabiraiu/reactproject.git/static/js/787.393ab288.chunk.js",
+    "static/media/loading-9.gif": "/zabiraiu/reactproject.git/static/media/loading-9.36574b6ce773635be8b4.gif",
+    "static/media/pic_1171831236_1.png": "/zabiraiu/reactproject.git/static/media/pic_1171831236_1.ca0ac32c6ce5b2a4a47a.png",
+    "static/media/check-yes-ok-icon-10.png": "/zabiraiu/reactproject.git/static/media/check-yes-ok-icon-10.8a9cd4d8611ecae86bc9.png",
+    "index.html": "/zabiraiu/reactproject.git/index.html",
+    "main.764936a2.css.map": "/zabiraiu/reactproject.git/static/css/main.764936a2.css.map",
+    "main.d70a5d20.js.map": "/zabiraiu/reactproject.git/static/js/main.d70a5d20.js.map",
+    "672.2b32ed06.chunk.css.map": "/zabiraiu/reactproject.git/static/css/672.2b32ed06.chunk.css.map",
+    "672.78ff2034.chunk.js.map": "/zabiraiu/reactproject.git/static/js/672.78ff2034.chunk.js.map",
+    "787.393ab288.chunk.js.map": "/zabiraiu/reactproject.git/static/js/787.393ab288.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764936a2.css",
+    "static/js/main.d70a5d20.js"
+  ]
+}
